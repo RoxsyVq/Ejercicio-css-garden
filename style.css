@@ -1,28 +1,22 @@
 .page-wrapper{
   margin:0px auto;
-  width:726px;
+  width:800px;
   text-align:left;
   background-color:#FAF5C4;
-  padding-bottom: 70px;
+
 /*trasicion all2s */
 }
 
  .page-wrapper h3 {
-
  color: #1C1811;
   font-size: 25px;
 background-color: #9DCFF3;
-border-radius: 5%;
+border-radius: 12%;
 padding: 10px 20px;
 
 }
-.design-name{
-  color:green;
-   font-size: 20px;
 
-
-}
-
+/*body parrafos*/
 .preamble, .explanation, .participation, .benefits, .requirements{
     top: 150px;
     position: relative;
@@ -32,20 +26,18 @@ padding: 10px 20px;
     padding-bottom: 29px;
     text-align: justify
     }
+    /*enlaces*/
   .sidebar {
 
-        top: 435px;
+        top: 485px;
         margin-left: 410px;
         width: 196px;
         background-position: left top;
-        padding-left: 30px;
+        padding-left: 90px;
         position: absolute;
       }
 
   body {
-    margin: 0;
-    padding: 0;
-    font-size :;
 
     text-align: center;
     background: url(img/body.jpg) ;
@@ -69,9 +61,8 @@ footer {
     box-shadow: 0PX 2PX 0PX #1d64a6;
     border-radius: 100%;
   }
+  /* encabezado*/
   header {
-
-
       text-align:center;
       font-family: forte;
       background-image: url(img/head.jpg);
@@ -92,26 +83,20 @@ margin: opx 100px;
     font-size: 25px;
     text-align: right;
   }
-  .intro{
 
-  }
 .summary{
   background-image: url(img/hhh.jpg);
-
   padding: 20PX 40PX;
   background-size:cover;
   text-align: center;
   font-family: Imprint MT Shadow;
   color:#22ABE5;
-
-
 }
 .design-selection{
 
-  border-radius: 7%;
+  border-radius: 5px;
  font-size: 15px;
   border: solid #32CD32;
-    border-radius: 5px;
     padding:0px 0px;
     margin: 10px 10px;
     border-width: 20px 5px 5px 5px;
@@ -128,7 +113,6 @@ color:#FAF3F3;
 
 }
 .design-archives{
-  border-radius: 7%;
 
   border: solid #32CD32;
     border-radius: 5px;
@@ -148,7 +132,7 @@ color:#FAF3F3;
 
 }
 .zen-resources{
-  border-radius: 7%;
+
   border: solid #32CD32;
     border-radius: 5px;
     padding:0px 0px;
