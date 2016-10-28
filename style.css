@@ -123,6 +123,9 @@ border-radius: 0%;
 padding:10px 10px;
 margin: 0px 0px;
 text-align:center;
+font-family: Colonna MT;
+color:#FAF3F3;
+
 }
 .design-archives{
   border-radius: 7%;
@@ -139,6 +142,10 @@ border-radius: 0%;
 padding:10px 10px;
 margin: 0px 0px;
 text-align:center;
+font-family: Colonna MT;
+color:#FAF3F3;
+
+
 }
 .zen-resources{
   border-radius: 7%;
@@ -154,4 +161,11 @@ border-radius: 0%;
 padding:10px 10px;
 margin: 0px 0px;
 text-align:center;
+font-family: Colonna MT;
+color:#FAF3F3;
+}
+.design-name {
+  font-family: Californian FB;
+  color: #476695;
+
 }
